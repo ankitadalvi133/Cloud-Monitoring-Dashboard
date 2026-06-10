@@ -1,0 +1,22 @@
+Report
+
+Project Name: Cloud Monitoring Dashboard
+
+Objective:
+To monitor AWS resources and visualize metrics using Amazon CloudWatch Dashboard.
+
+Services Used:
+
+Amazon CloudWatch
+AWS Lambda
+
+Architecture:
+
+AWS Lambda
+     |
+CloudWatch Metrics
+     |
+CloudWatch Dashboard
+
+Result:
+Successfully created a CloudWatch Dashboard and monitored AWS Lambda metrics using graphical visualization.
